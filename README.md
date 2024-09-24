@@ -3,6 +3,6 @@ The Car Rental System is a Java application designed to efficiently manage car r
 
 Compile and Run Code directly from the terminal:
 
-javac Main.java  # This compiles the code
-java Main        # This runs the compiled program
+1. javac Main.java  # This compiles the code , 
+2. java Main        # This runs the compiled program .
 
