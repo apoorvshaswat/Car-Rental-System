@@ -1,15 +1,2 @@
 Car Rental System
-Description
-The Car Rental System is a Java application designed to manage car rentals efficiently. It allows users to view available cars, rent and return vehicles, search for specific models, and list currently rented cars.
-
-Features
-View available cars
-Rent a car
-Return a car
-List rented cars
-Search cars by model
-Reset the system to make all cars available
-Technologies Used
-Java
-Object-Oriented Programming (OOP)
-Data Structures (ArrayList, HashMap)
+The Car Rental System is a Java application designed to efficiently manage car rentals. It allows users to view available cars, rent and return vehicles, search for specific models, and list currently rented cars. The system features user-friendly functionality and utilizes object-oriented programming principles, leveraging data structures like ArrayList and HashMap for effective data management. To run the application, clone the repository, navigate to the project directory, and execute the Main class. Contributions are welcome, and users are encouraged to fork the repository and submit pull requests to enhance the project.
